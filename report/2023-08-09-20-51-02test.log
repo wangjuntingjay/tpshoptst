@@ -1,0 +1,63 @@
+2023-08-09 20:51:03,431 - root - INFO - 测试开始，启动浏览器chrome
+2023-08-09 20:51:03,431 - root - INFO - 输入网址http://www.tpshop.cn/Home/user/login.html
+
+2023-08-09 20:51:03,567 - root - INFO - 开始执行测试用例test_001
+2023-08-09 20:51:03,567 - root - INFO - 通过属性id寻找元素username
+2023-08-09 20:51:03,605 - root - INFO - 输入13800138006
+2023-08-09 20:51:03,641 - root - INFO - 通过属性id寻找元素password
+2023-08-09 20:51:03,665 - root - INFO - 输入123456
+2023-08-09 20:51:03,713 - root - INFO - 通过属性id寻找元素verify_code
+2023-08-09 20:51:03,741 - root - INFO - 输入8888
+2023-08-09 20:51:03,784 - root - INFO - 通过属性name寻找元素sbtbutton
+2023-08-09 20:51:03,800 - root - INFO - 点击name元素sbtbutton
+2023-08-09 20:51:03,844 - root - INFO - 通过属性link text寻找元素安全退出
+2023-08-09 20:51:06,453 - root - INFO - 程序休眠2秒
+2023-08-09 20:51:08,454 - root - INFO - 结束执行测试用例test_001
+
+2023-08-09 20:51:08,477 - root - INFO - 开始执行测试用例test_002
+2023-08-09 20:51:08,477 - root - INFO - 通过属性id寻找元素username
+2023-08-09 20:51:08,497 - root - INFO - 输入13800138007
+2023-08-09 20:51:08,516 - root - INFO - 通过属性id寻找元素password
+2023-08-09 20:51:08,537 - root - INFO - 输入123456
+2023-08-09 20:51:08,582 - root - INFO - 通过属性id寻找元素verify_code
+2023-08-09 20:51:08,601 - root - INFO - 输入8888
+2023-08-09 20:51:08,628 - root - INFO - 通过属性name寻找元素sbtbutton
+2023-08-09 20:51:08,634 - root - INFO - 点击name元素sbtbutton
+2023-08-09 20:51:08,653 - root - INFO - 通过属性class name寻找元素layui-layer-content
+2023-08-09 20:51:09,178 - root - INFO - 通过属性class name寻找元素layui-layer-btn0
+2023-08-09 20:51:09,185 - root - INFO - 点击class name元素layui-layer-btn0
+2023-08-09 20:51:09,209 - root - INFO - 程序休眠2秒
+2023-08-09 20:51:11,210 - root - INFO - 结束执行测试用例test_002
+
+2023-08-09 20:51:11,213 - root - INFO - 开始执行测试用例test_003
+2023-08-09 20:51:11,213 - root - INFO - 通过属性id寻找元素username
+2023-08-09 20:51:11,237 - root - INFO - 输入13800138008
+2023-08-09 20:51:11,267 - root - INFO - 通过属性id寻找元素password
+2023-08-09 20:51:11,293 - root - INFO - 输入123456
+2023-08-09 20:51:11,327 - root - INFO - 通过属性id寻找元素verify_code
+2023-08-09 20:51:11,349 - root - INFO - 输入8888
+2023-08-09 20:51:11,392 - root - INFO - 通过属性name寻找元素sbtbutton
+2023-08-09 20:51:11,397 - root - INFO - 点击name元素sbtbutton
+2023-08-09 20:51:11,418 - root - INFO - 通过属性class name寻找元素layui-layer-content
+2023-08-09 20:51:11,936 - root - INFO - 通过属性class name寻找元素layui-layer-btn0
+2023-08-09 20:51:11,940 - root - INFO - 点击class name元素layui-layer-btn0
+2023-08-09 20:51:11,956 - root - INFO - 程序休眠2秒
+2023-08-09 20:51:13,956 - root - INFO - 结束执行测试用例test_003
+
+2023-08-09 20:51:13,959 - root - INFO - 开始执行测试用例test_004
+2023-08-09 20:51:13,959 - root - INFO - 通过属性id寻找元素username
+2023-08-09 20:51:13,982 - root - INFO - 输入13800138008
+2023-08-09 20:51:14,010 - root - INFO - 通过属性id寻找元素password
+2023-08-09 20:51:14,032 - root - INFO - 输入123456
+2023-08-09 20:51:14,061 - root - INFO - 通过属性id寻找元素verify_code
+2023-08-09 20:51:14,083 - root - INFO - 输入88888
+2023-08-09 20:51:14,109 - root - INFO - 通过属性name寻找元素sbtbutton
+2023-08-09 20:51:14,114 - root - INFO - 点击name元素sbtbutton
+2023-08-09 20:51:14,134 - root - INFO - 通过属性class name寻找元素layui-layer-content
+2023-08-09 20:51:14,652 - root - INFO - 通过属性class name寻找元素layui-layer-btn0
+2023-08-09 20:51:14,656 - root - INFO - 点击class name元素layui-layer-btn0
+2023-08-09 20:51:14,674 - root - INFO - 程序休眠2秒
+2023-08-09 20:51:16,675 - root - INFO - 结束执行测试用例test_004
+
+2023-08-09 20:51:16,675 - root - INFO - 测试结束
+

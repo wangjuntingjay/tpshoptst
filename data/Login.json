@@ -1,0 +1,43 @@
+{
+  "test1": {
+    "test_id": "test_001",
+    "username": "13800138006",
+    "password": "123456",
+    "verify_code": "8888",
+    "state": true,
+    "assert": {
+      "except": "安全退出"
+    }
+  },
+  "test2": {
+    "test_id": "test_002",
+    "username": "13800138007",
+    "password": "123456",
+    "verify_code": "8888",
+    "state": false,
+    "assert": {
+      "except": "密码错误!"
+    }
+  },
+  "test3": {
+    "test_id": "test_003",
+    "username": "13800138008",
+    "password": "123456",
+    "verify_code": "8888",
+    "state": false,
+    "assert": {
+      "except": "账号不存在!"
+    }
+  },
+  "test4": {
+    "test_id": "test_004",
+    "username": "13800138008",
+    "password": "123456",
+    "verify_code": "88888",
+    "state": false,
+    "assert": {
+      "except": "验证码错误"
+    }
+  }
+}
+
